@@ -1,2 +1,2 @@
 # Weather_app
-Created a weather app using HTMl CSS Js
+Created a weather app using HTMl CSS Js, openweather API
